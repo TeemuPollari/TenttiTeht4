@@ -31,3 +31,17 @@ Y:\Makela_Petteri\AUTE14\Verkko-ohjelmointi\Ads\Ads3SocketExample4Measurements\S
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\bin\Debug\Server.exe.config
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.exe
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\Server.exe.config
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\obj\Debug\Server.exe
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\obj\Debug\Server.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\Server.exe
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\Server.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\ClientHelper.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\MeasurementLibrary.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\TwinCAT.Ads.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\ClientHelper.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\MeasurementLibrary.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\TwinCAT.Ads.xml
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

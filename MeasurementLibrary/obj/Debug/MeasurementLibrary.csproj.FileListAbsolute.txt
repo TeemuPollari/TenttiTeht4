@@ -10,3 +10,10 @@ C:\Users\lpemake\Desktop\SocketExample4Measurements\MeasurementLibrary\bin\Debug
 C:\Users\lpemake\Desktop\SocketExample4Measurements\MeasurementLibrary\bin\Debug\Newtonsoft.Json.xml
 C:\Users\lpemake\Desktop\SocketExample4Measurements\MeasurementLibrary\obj\Debug\MeasurementLibrary.dll
 C:\Users\lpemake\Desktop\SocketExample4Measurements\MeasurementLibrary\obj\Debug\MeasurementLibrary.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\MeasurementLibrary\bin\Debug\MeasurementLibrary.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\MeasurementLibrary\bin\Debug\MeasurementLibrary.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\MeasurementLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\MeasurementLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\MeasurementLibrary\obj\Debug\MeasurementLibrary.csprojResolveAssemblyReference.cache
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\MeasurementLibrary\obj\Debug\MeasurementLibrary.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\MeasurementLibrary\obj\Debug\MeasurementLibrary.pdb

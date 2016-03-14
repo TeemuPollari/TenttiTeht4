@@ -6,3 +6,8 @@ C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\bin\Debug\Clien
 C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.pdb
 C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.dll
 C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.pdb
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.csprojResolveAssemblyReference.cache
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.dll
+C:\Users\k1401288\Desktop\Ads3SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.pdb
